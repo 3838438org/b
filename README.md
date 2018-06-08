@@ -30,4 +30,5 @@ docker.io
 
 
 ----开始搞:
- 
+#看这个编写的样例 
+https://github.com/docker/docker.github.io/blob/master/compose/compose-file/index.md
