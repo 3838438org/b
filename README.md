@@ -25,4 +25,9 @@ https://github.com/447008888
 key文件===594b63d6ac1129ac378763bdc6b0dd8c5966f16c\
 
 
-docker.io  
+docker.io 
+
+
+
+----开始搞:
+ 
