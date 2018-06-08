@@ -22,4 +22,7 @@ https://github.com/447008888
 客户秘密： f98a0b2797b949caa49ecfc2eb21e233f123ba4e
 
 
-key文件===./key
+key文件===594b63d6ac1129ac378763bdc6b0dd8c5966f16c\
+
+
+docker.io  
