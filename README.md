@@ -59,6 +59,31 @@ pub   rsa2048 2018-06-10 [SC] [有效至：2020-06-09]
 uid                      www3838438 <www3838438@yahoo.com>
 sub   rsa2048 2018-06-10 [E] [有效至：2020-06-09]
 
+gpg --list-secret-keys --keyid-format LONG
+
+gpg --armor --export EC5AD6772BC5CD84
+然后得到key 
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mI0EWx1tWgEEAMGJxQyiybexP0m/sydvJD1IGARj0206lN20Fb4bsFkw1qDfx4S3
+EHY4ShirEUE8WVv9GJsldWRZq9bSJyFvjybyN6kPyhZmBaWBmCl5KgGO8LZ5oPgM
+Kn48Q2fGXNozBxlV7avA0Y9wNx21sCghwQPopckXtysWtkFZv0SqXJz7ABEBAAG0
+J3d3dzM4Mzg0MzggKGNlbykgPHd3dzM4Mzg0MzhAeWFob28uY29tPoi4BBMBAgAi
+BQJbHW1aAhsDBgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRDsWtZ3K8XNhD62
+A/9eRdryp6tC9EY6WJXOH1V+htpxGuxa4XTV1noYrF2WOpQDBGYA7bXRVYC3MKRP
+7Ce2mlSlATJIKiWEKwAyUMJp8YmXxVi5E0VxIFFYmgCqIkAiD/5lcvYetI76H7St
+kxdqSW6iLPRpMMKUvxbMXP1d2xpW/l6zl7+36qSbOfmqM7iNBFsdbVoBBADZGAjQ
+bd/HNboulcakQcQ6geTHff/c3ey4PtV39QxY1fEbtepbFJAqoL0n09o1dVVRtxCD
+Op3F/SF6YFPohHw/n6xjSpk3TSqepxFNClsEtxSCz4vn0p2PheEOWZIMO4VhtHdh
+8AWAqvbhRgbYGnQS37BDoHZjQ2r4kaHu2emcDQARAQABiJ8EGAECAAkFAlsdbVoC
+GwwACgkQ7FrWdyvFzYQXSAQAkcG4YwFaQpD1wna0m1a9pbZUtz1Maj5TsUYJNlVP
+8UW6EqC8V58F6WrBnf+IBnj7FXa0c+9QC8WTgOmZnO46wYA3OFiQSB0PJOgzwcdg
+OskAfIS94qUh5TKk4PIqq+jS8gLgxCqVUOaZbGRTJngBQuirQ6pyoTFFlftd7zlS
+i9k=
+=XTrJ
+-----END PGP PUBLIC KEY BLOCK-----
+
 ----开始搞:
 #看这个编写的样例 
 https://github.com/docker/docker.github.io/blob/master/compose/compose-file/index.md
