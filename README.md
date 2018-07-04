@@ -25,6 +25,14 @@ https://github.com/447008888
 key文件===594b63d6ac1129ac378763bdc6b0dd8c5966f16c\
 
 
+
+-------------------org3838438
+
+86f749add1ed3ca047ed3252de629a5b0aea76c7
+
+
+token=86f749add1ed3ca047ed3252de629a5b0aea76c7
+
 docker.io 
 
 gpg --gen-key
